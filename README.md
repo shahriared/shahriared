@@ -11,8 +11,6 @@ I am **Shahriar** working as Web Developer. I am an Experienced **Fullstack Deve
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriared&layout=compact&theme=dark&hide_border=true)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shahriared)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Shahriar's github stats](https://github-readme-stats.vercel.app/api?username=shahriared&show_icons=true&hide_border=true&theme=dark&count_private=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shahriared)](https://github.com/shahriared/github-profile-trophy)
