@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahriared" alt="shahriared" /></a> </p>
 
-- 🔭 I’m currently working on [ALPYN electronics](alpynelectronics.com)
-
-- 🌱 I’m currently studying **Computer Engineering**
-
-- 👨‍💻 All of my projects are available at [shahriared.com](shahriared.com)
-
 - 📫 How to reach me **shahriared@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
