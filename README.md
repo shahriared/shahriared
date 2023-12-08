@@ -11,9 +11,9 @@ Greetings! I'm **Shahriar**, a seasoned **Fullstack Developer** with a rich back
 
 ### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriared&layout=compact&theme=dark&hide_border=true)
-
-![Shahriar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahriared&show_icons=true&hide_border=true&theme=dark&count_private=true)
+![shahriared's Stats](https://github-readme-stats.vercel.app/api?username=shahriared&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![shahriared's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahriared&theme=vue-dark&hide_border=false)
+![shahriared's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriared&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ### 🚀 Fun Stats
 
